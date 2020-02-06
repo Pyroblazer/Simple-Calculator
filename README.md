@@ -1,4 +1,4 @@
-#Simple Calculator
+# Simple Calculator
 
 ## Program Guide
 untuk menjalankan program, bisa dengan 2 cara. 
